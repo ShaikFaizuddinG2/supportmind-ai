@@ -1,0 +1,6 @@
+{
+  "name": "SupportMind AI",
+  "description": "Memory-Powered Industrial Customer Support Agent utilizing persistent Hindsight memory and Ollama for local intelligent machine troubleshooting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_LOCAL_OLLAMA_AI"]
+}
